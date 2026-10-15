@@ -27,8 +27,8 @@ import requests
 APP_NAME = "KRUTIK CYBER EXPERT"
 VERSION = "7.0"
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
-OWNER_CHAT_ID_RAW = os.getenv("OWNER_CHAT_ID", "").strip()
+BOT_TOKEN = os.getenv("8688782858:AAFKqR5a0Y_RqbYO-gGrCphzi3O7j7ndWpE", "").strip()
+OWNER_CHAT_ID_RAW = os.getenv("8640994947", "").strip()
 
 try:
     OWNER_CHAT_ID = int(OWNER_CHAT_ID_RAW)
