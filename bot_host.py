@@ -24,7 +24,7 @@ import requests
 # VERSION 7.0
 # ============================================================
 
-APP_NAME = "KRUTIK CYBER EXPERT"
+APP_NAME = "FENIX HOST"
 VERSION = "7.0"
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
